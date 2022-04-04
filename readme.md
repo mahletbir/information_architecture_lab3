@@ -1,10 +1,9 @@
-
 # Lab #3: Develop Code Repository and Push Commits 
-
 
 **Points: 10**  
 **Assignment Type: Group submissions**
 
+2022 Spring Group 1
 
 ### Description:
 
