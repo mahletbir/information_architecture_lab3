@@ -1,1 +1,2 @@
 hello group:
+This is lab3 assignment
